@@ -1,1 +1,1 @@
-Next JS & TypeScript & Clerk Auth & Prisma & TanStack & Tailwind & Shadcn
+Next JS & TypeScript & Clerk Auth & Prisma & TanStack & Tailwind & Shadc UI
